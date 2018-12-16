@@ -1,0 +1,11 @@
+name: UrbanBuilder
+main: itsu.mcbe.webbrowser.core.Main
+version: 1.0.0
+api: 1.0.0
+author: itsu
+load: POSTWORLD
+
+commands:
+  web:
+    usage: /web <load|create|break>
+    description: WebBrowser

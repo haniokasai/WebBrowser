@@ -1,0 +1,15 @@
+#display size (block count)
+#1block per 128px
+display_width: 8
+display_height: 5
+
+#framelate(tick)
+#1s = 20tick
+display_framerate: 20
+
+#First load URL when created the display
+first_load_url: "https://www.google.co.jp"
+
+#User Agent
+#Default (Windows10 Microsoft Edge): "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393"
+user_agent: "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393"
